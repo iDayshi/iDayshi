@@ -12,9 +12,11 @@
 * **NodeJS(basic)**
 ----
 ### Certificates
-* [JAVASCRIPT/FRONT-END 2022Q1 (JAVASCRIPT)](https://app.rs.school/certificate/2tvs7cgb) - sep.2022
-* [Result.School](https://mfs-09.getcourse.ru/public/files/177331/21/3f4a90a5f6594b63ce72981526317f59.png?e=1663847999&s=J-Nj3nr2fPn0pmKsUoxZOw) - aug.2022
-* [JS/FE PRE-SCHOOL 2022(JAVASCRIPT)](https://app.rs.school/certificate/xhuasf2a) - mar.2022
+School|Сertificate|Studying time|
+:-----------:|:------------:|-------------------|
+[The Rolling Scopes School](https://rs.school/js-en/) | [JAVASCRIPT/FRONT-END 2022Q1 (JAVASCRIPT)](https://app.rs.school/certificate/2tvs7cgb) | mar.2022 - sep.2022 |
+[Result.School](https://result.school/) | [Frontend](https://mfs-09.getcourse.ru/public/files/177331/21/3f4a90a5f6594b63ce72981526317f59.png?e=1663847999&s=J-Nj3nr2fPn0pmKsUoxZOw) | dec.2021 - aug.2022 
+[The Rolling Scopes School](https://rs.school/js-en/) | [JS/FE PRE-SCHOOL 2022(JAVASCRIPT)](https://app.rs.school/certificate/xhuasf2a) | dec.2021 - mar.2022
 ----
 ### Codewars
 [![](https://www.codewars.com/users/iDayshi/badges/large)](https://www.codewars.com/users/iDayshi)    
