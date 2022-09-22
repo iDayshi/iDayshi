@@ -11,6 +11,11 @@
 * **Redux**
 * **NodeJS(basic)**
 ----
+### Certificates
+* [JAVASCRIPT/FRONT-END 2022Q1 (JAVASCRIPT)](https://app.rs.school/certificate/2tvs7cgb) - sep.2022
+* [Result.School](https://mfs-09.getcourse.ru/public/files/177331/21/3f4a90a5f6594b63ce72981526317f59.png?e=1663847999&s=J-Nj3nr2fPn0pmKsUoxZOw) - aug.2022
+* [JS/FE PRE-SCHOOL 2022(JAVASCRIPT)](https://app.rs.school/certificate/xhuasf2a) - mar.2022
+----
 ### Codewars
 [![](https://www.codewars.com/users/iDayshi/badges/large)](https://www.codewars.com/users/iDayshi)    
 ----
