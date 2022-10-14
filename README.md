@@ -15,7 +15,7 @@
 School|Сertificate|Studying time|
 :-----------:|:------------:|-------------------|
 [The Rolling Scopes School](https://rs.school/js-en/) | [JAVASCRIPT/FRONT-END 2022Q1 (JAVASCRIPT)](https://app.rs.school/certificate/2tvs7cgb) | mar.2022 - sep.2022 |
-[Result.School](https://result.school/) | [Frontend](https://mfs-05.getcourse.ru/public/files/177331/286/7057646f1ecddabea0b115e946c89ac2.png?e=1663865999&s=RV1UVen7jtB64VsBad4JwQ) | dec.2021 - aug.2022 
+[Result.School](https://result.school/) | [Frontend](https://mfs-12.getcourse.ru/public/files/177331/286/7057646f1ecddabea0b115e946c89ac2.png?e=1665741599&s=ptbBzBuzvVkS6cTboYp7Yw) | dec.2021 - aug.2022 
 [The Rolling Scopes School](https://rs.school/js-en/) | [JS/FE PRE-SCHOOL 2022(JAVASCRIPT)](https://app.rs.school/certificate/xhuasf2a) | dec.2021 - mar.2022
 ----
 ### Codewars
